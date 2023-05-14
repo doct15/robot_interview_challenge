@@ -10,15 +10,11 @@ This uses python 3 with pygame (for graphics)
 
 Wet the circle initial x,y center coordinates and the circle circumference.
 
-> #The circle
-
-> circlecenterx=-3
-
-> circlecentery=4
-
-> circumference=(10 * math.pi)
-
-> radius=circumference / (2 * math.pi)
+		#The circle
+		circlecenterx=-3
+		circlecentery=4
+		circumference=(10 * math.pi)
+		radius=circumference / (2 * math.pi)
 
 Do not change the radius formula
 
